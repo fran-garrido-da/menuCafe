@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Espresso",
+    "price": 3000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":0
+},
+  {
+    "name": "Americano",
+    "price": 3100,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":1
+},
+  {
+    "name": "Cortado",
+    "price": 3300,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":2
+},
+  {
+    "name": "Café con leche",
+    "price": 3500,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":3
+},
+  {
+    "name": "Macchiato",
+    "price": 3000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":4
+},
+  {
+    "name": "Ristretto",
+    "price": 3000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":5
+},
+  {
+    "name": "Flat White",
+    "price": 4000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":6
+},
+  {
+    "name": "Latte",
+    "price": 4000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":7
+},
+  {
+    "name": "Cappuccino",
+    "price": 4500,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":8
+},
+  {
+    "name": "Iced coffee",
+    "price": 3500,
+    "descrip": "Medida de café con hielo",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":9
+},
+  {
+    "name": "Submarino",
+    "price": 4500,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":10
+},
+  {
+    "name": "Choco-milkshake",
+    "price": 4000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":11
+},
+  {
+    "name": "Exprimido naranja",
+    "price": 3500,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":12
+},
+  {
+    "name": "Limonada",
+    "price": 3800,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":13
+},
+  {
+    "name": "Té",
+    "price": 3000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":14
+},
+  {
+    "name": "Gaseosas",
+    "price": 3500,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":15
+},
+  {
+    "name": "Aguas",
+    "price": 3000,
+    "descrip": "",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":16
+},
+  {
+    "name": "Carlitos",
+    "price": 5600,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":17
+},
+  {
+    "name": "Sandwich de focaccia",
+    "price": 6900,
+    "descrip": "Focaccia con jamón, queso, lechuga y tomate, con un dip de mayo",
+    "section":"comestibles",
+    "logicState":true,
+    "id":18
+},
+  {
+    "name": "Sandwich de pan arabe",
+    "price": 6500,
+    "descrip": "Pan arabe con jamón, queso, lechuga y tomate, con un dip de mayo",
+    "section":"comestibles",
+    "logicState":true,
+    "id":19
+},
+  {
+    "name": "Medialunas",
+    "price": 1000,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":20
+},
+  {
+    "name": "Medialunas con jamón y queso",
+    "price": 1800,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":21
+},
+  {
+    "name": "Tostadas",
+    "price": 6000,
+    "descrip": "6 tostadas de pan de masa madre, mermelada y queso crema",
+    "section":"comestibles",
+    "logicState":true,
+    "id":22
+},
+  {
+    "name": "Huevo revuelto",
+    "price": 6300,
+    "descrip": "Huevo revuelto, 2 tostadas de pan de masa madre y queso crema",
+    "section":"comestibles",
+    "logicState":true,
+    "id":23
+},
+  {
+    "name": "Palta extra",
+    "price": 3000,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":24
+},
+  {
+    "name": "Yogurt con fruta y granola",
+    "price": 5000,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":25
+},
+  {
+    "name": "Roll de canela",
+    "price": 3200,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":26
+},
+  {
+    "name": "Orejitas de manteca",
+    "price": 3500,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":27
+},
+  {
+    "name": "Focaccia",
+    "price": 3000,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":28
+},
+  {
+    "name": "Scon de queso",
+    "price": 2300,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":29
+},
+  {
+    "name": "Cuadradito de limón",
+    "price": 3000,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":30
+},
+  {
+    "name": "Brownie",
+    "price": 4000,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":31
+},
+  {
+    "name": "Porcion budín de nuéz",
+    "price": 3400,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":32
+},
+  {
+    "name": "Scon",
+    "price": 2300,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":33
+}
+]
