@@ -1,4 +1,4 @@
-[
+ [
   {
     "name": "Espresso",
     "price": 3000,
@@ -97,7 +97,7 @@
 },
   {
     "name": "Exprimido naranja",
-    "price": 3500,
+    "price": 4000,
     "descrip": "",
     "section":"cafeteria",
     "logicState":true,
@@ -137,7 +137,7 @@
 },
   {
     "name": "Carlitos",
-    "price": 5600,
+    "price": 4000,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -145,15 +145,15 @@
 },
   {
     "name": "Sandwich de focaccia",
-    "price": 6900,
+    "price": 5500,
     "descrip": "Focaccia con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"comestibles",
     "logicState":true,
     "id":18
 },
   {
-    "name": "Sandwich de pan arabe",
-    "price": 6500,
+    "name": "Sandwich de pan pita",
+    "price": 5500,
     "descrip": "Pan arabe con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"comestibles",
     "logicState":true,
@@ -193,7 +193,7 @@
 },
   {
     "name": "Palta extra",
-    "price": 3000,
+    "price": 1700,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -209,7 +209,7 @@
 },
   {
     "name": "Roll de canela",
-    "price": 3200,
+    "price": 1300,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -217,7 +217,7 @@
 },
   {
     "name": "Orejitas de manteca",
-    "price": 3500,
+    "price": 1200,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -232,40 +232,39 @@
     "id":28
 },
   {
-    "name": "Scon de queso",
-    "price": 2300,
+    "name": "Cuadradito de limón",
+    "price": 600,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
     "id":29
 },
   {
-    "name": "Cuadradito de limón",
-    "price": 3000,
+    "name": "Brownie",
+    "price": 3500,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
     "id":30
 },
   {
-    "name": "Brownie",
-    "price": 4000,
-    "descrip": "",
-    "section":"comestibles",
-    "logicState":true,
-    "id":31
-},
-  {
     "name": "Porcion budín de nuéz",
     "price": 3400,
     "descrip": "",
     "section":"comestibles",
-    "logicState":true,
-    "id":32
+    "logicState":false,
+    "id":31
 },
   {
     "name": "Scon",
-    "price": 2300,
+    "price": 600,
+    "descrip": "",
+    "section":"comestibles",
+    "logicState":true,
+    "id":32
+},{
+    "name": "Scon de queso",
+    "price": 600,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
