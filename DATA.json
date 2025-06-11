@@ -264,7 +264,7 @@
     "id":32
 },{
     "name": "Scon de queso",
-    "price": 600,
+    "price": 800,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
