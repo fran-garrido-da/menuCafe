@@ -224,14 +224,6 @@
     "id":27
 },
   {
-    "name": "Focaccia",
-    "price": 3000,
-    "descrip": "",
-    "section":"comestibles",
-    "logicState":true,
-    "id":28
-},
-  {
     "name": "Cuadradito de limón",
     "price": 600,
     "descrip": "",
@@ -246,14 +238,6 @@
     "section":"comestibles",
     "logicState":true,
     "id":30
-},
-  {
-    "name": "Porcion budín de nuéz",
-    "price": 3400,
-    "descrip": "",
-    "section":"comestibles",
-    "logicState":false,
-    "id":31
 },
   {
     "name": "Scon",
