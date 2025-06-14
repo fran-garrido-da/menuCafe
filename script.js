@@ -34,7 +34,7 @@ function newCard(menuItem){
 }
 function showMenu(){
     menu.forEach(item => {
-            if(item.logicState === true){
+            if(item.logicState){
                     newCard(item);
         console.log("Added new Card to Main");
                     }
