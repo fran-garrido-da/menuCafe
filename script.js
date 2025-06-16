@@ -23,12 +23,21 @@ function newCard(menuItem){
     newCard.style.width = "30rem";
     newCard.innerHTML 
     = `<blockquote>
-        <h1>${menuItem.name}</h5>          
+        <h1>${menuItem.name}</h1>          
         <p>Precio: $${menuItem.price}</p>
         <legend>Descripcion:${menuItem.descrip}</legend>
         </blockquote>
         `
-    
+        //newCard = document.createElement('blockquote');
+        //h1 = document.createElement('h1')
+        //h1.innerText = ´${menuItem.name}´;
+        //p = document.createElement('p');
+        //legend = document.createElement('legend')
+        //p.innerText = ´$${menuItem.price}´
+        //legend.innerText = ´Description: ${menuItem.descrip}´
+        //newCard.appendChild(h1)
+        //newCard.appendChild(p)
+        //newCard.appendChild(legend)
         main.appendChild(newCard);
 
 }
