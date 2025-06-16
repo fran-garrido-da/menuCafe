@@ -113,7 +113,7 @@
 },
   {
     "name": "Té",
-    "price": 3000,
+    "price": 2000,
     "descrip": "",
     "section":"cafeteria",
     "logicState":true,
@@ -129,7 +129,7 @@
 },
   {
     "name": "Aguas",
-    "price": 3000,
+    "price": 1500,
     "descrip": "",
     "section":"cafeteria",
     "logicState":true,
