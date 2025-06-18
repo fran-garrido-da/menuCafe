@@ -148,7 +148,7 @@
     "price": 5500,
     "descrip": "Focaccia con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"comestibles",
-    "logicState":false,
+    "logicState":true,
     "id":18
 },
   {
