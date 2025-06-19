@@ -21,6 +21,10 @@ body {
 }
 a {
   color: inherit;
+  display: flex;
+  flex-direction: row;
+  flex-flow: row;
+  gap: 1rem;
 }
 p {
   margin: 0 0 1rem 0;
@@ -40,6 +44,7 @@ h2 {
   border: solid #454138;
   border-width: 0.1rem 0;
   padding: 0.1rem 1rem;
+  margin:0 auto 0.5rem auto;
 }
 h3,
 h4,
@@ -359,4 +364,13 @@ figure > figcaption {
 iframe {
   border: 0.1rem solid #bab5a1;
 }
-
+.logo{
+  width: 3rem;
+}
+header{
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: column;
+  justify-content: left;
+}
