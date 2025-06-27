@@ -137,7 +137,7 @@
 },
   {
     "name": "Carlitos",
-    "price": 4000,
+    "price": 4500,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
