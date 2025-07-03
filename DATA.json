@@ -129,7 +129,7 @@
 },
   {
     "name": "Agua",
-    "price": 1500,
+    "price": 2000,
     "descrip": "",
     "section":"cafeteria",
     "logicState":true,
