@@ -177,8 +177,8 @@
 },
   {
     "name": "Tostadas",
-    "price": 6000,
-    "descrip": "6 tostadas de pan de masa madre, mermelada y queso crema",
+    "price": 5000,
+    "descrip": "4 tostadas de pan de masa madre, mermelada y queso crema",
     "section":"comestibles",
     "logicState":true,
     "id":22
@@ -251,7 +251,7 @@
     "price": 800,
     "descrip": "",
     "section":"comestibles",
-    "logicState":false,
+    "logicState":true,
     "id":33
 }
 ]
