@@ -140,7 +140,7 @@
     "price": 4500,
     "descrip": "Sandwich de jamón y queso con pan de masa madre tostado.",
     "section":"comestibles",
-    "logicState":true
+    "logicState":true,
     "id":17
 },
   {
