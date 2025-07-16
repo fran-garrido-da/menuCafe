@@ -140,7 +140,7 @@
     "price": 4500,
     "descrip": "Sandwich de jamón y queso con pan de masa madre tostado.",
     "section":"comestibles",
-    "logicState":false,
+    "logicState":true
     "id":17
 },
   {
@@ -164,7 +164,7 @@
     "price": 1000,
     "descrip": "",
     "section":"comestibles",
-    "logicState":true,
+    "logicState":false,
     "id":20
 },
   {
@@ -180,7 +180,7 @@
     "price": 5000,
     "descrip": "4 tostadas de pan de masa madre, mermelada y queso crema",
     "section":"comestibles",
-    "logicState":false,
+    "logicState":true,
     "id":22
 },
   {
@@ -196,7 +196,7 @@
     "price": 1700,
     "descrip": "",
     "section":"comestibles",
-    "logicState":true,
+    "logicState":false,
     "id":24
 },
   {
