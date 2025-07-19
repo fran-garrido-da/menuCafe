@@ -137,7 +137,7 @@
 },
   {
     "name": "Carlitos",
-    "price": 4500,
+    "price": 5000,
     "descrip": "Sandwich de jamón y queso con pan de masa madre tostado.",
     "section":"comestibles",
     "logicState":true,
@@ -209,7 +209,7 @@
 },
   {
     "name": "Roll de canela",
-    "price": 1500,
+    "price": 2500,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -248,7 +248,7 @@
     "id":32
 },{
     "name": "Scon de queso",
-    "price": 1200,
+    "price": 1000,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
