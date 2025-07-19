@@ -9,7 +9,7 @@
 },
   {
     "name": "Americano",
-    "price": 3100,
+    "price": 3400,
     "descrip": "Un espresso con agua",
     "section":"cafeteria",
     "logicState":true,
@@ -17,7 +17,7 @@
 },
   {
     "name": "Cortado",
-    "price": 3300,
+    "price": 3500,
     "descrip": "",
     "section":"cafeteria",
     "logicState":true,
@@ -25,7 +25,7 @@
 },
   {
     "name": "Café con leche",
-    "price": 3500,
+    "price": 3800,
     "descrip": "",
     "section":"cafeteria",
     "logicState":true,
@@ -145,7 +145,7 @@
 },
   {
     "name": "Sandwich de focaccia",
-    "price": 5500,
+    "price": 6000,
     "descrip": "Focaccia con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"comestibles",
     "logicState":true,
@@ -153,7 +153,7 @@
 },
   {
     "name": "Sandwich de pan pita",
-    "price": 5500,
+    "price": 6000,
     "descrip": "Pan arabe con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"comestibles",
     "logicState":true,
@@ -161,7 +161,7 @@
 },
   {
     "name": "Medialunas",
-    "price": 1000,
+    "price": 1200,
     "descrip": "",
     "section":"comestibles",
     "logicState":false,
@@ -169,7 +169,7 @@
 },
   {
     "name": "Medialunas con jamón y queso",
-    "price": 1800,
+    "price": 2000,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -201,7 +201,7 @@
 },
   {
     "name": "Yogurt con fruta y granola",
-    "price": 5000,
+    "price": 6000,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -209,7 +209,7 @@
 },
   {
     "name": "Roll de canela",
-    "price": 1300,
+    "price": 1500,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -217,7 +217,7 @@
 },
   {
     "name": "Orejitas de manteca",
-    "price": 1200,
+    "price": 1500,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -225,7 +225,7 @@
 },
   {
     "name": "Cuadradito de limón",
-    "price": 600,
+    "price": 900,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
@@ -241,14 +241,14 @@
 },
   {
     "name": "Scon",
-    "price": 600,
+    "price": 900,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
     "id":32
 },{
     "name": "Scon de queso",
-    "price": 800,
+    "price": 1200,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
