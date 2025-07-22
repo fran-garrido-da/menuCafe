@@ -1,7 +1,7 @@
  [
   {
     "name": "Espresso",
-    "price": 3000,
+    "price": 3100,
     "descrip": "Una carga de café en pocillo",
     "section":"cafeteria",
     "logicState":true,
@@ -113,7 +113,7 @@
 },
   {
     "name": "Té",
-    "price": 3000,
+    "price": 2000,
     "descrip": "Clásico, en hebras o twinings.",
     "section":"cafeteria",
     "logicState":true,
@@ -153,7 +153,7 @@
 },
   {
     "name": "Sandwich de pan pita",
-    "price": 6000,
+    "price": 6500,
     "descrip": "Pan arabe con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"comestibles",
     "logicState":true,
