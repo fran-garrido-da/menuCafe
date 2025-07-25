@@ -220,8 +220,7 @@
     "price": 1500,
     "descrip": "",
     "section":"comestibles",
-    "logicState":face
-   ,
+    "logicState":false,
     "id":27
 },
   {
