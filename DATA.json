@@ -209,7 +209,7 @@
 },
   {
     "name": "Roll de canela",
-    "price": 2500,
+    "price": 3500,
     "descrip": "",
     "section":"comestibles",
     "logicState":true,
