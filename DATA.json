@@ -32,6 +32,14 @@
     "id":3
 },
   {
+    "name": "Cafe MasCaro",
+    "price": 4200,
+    "descrip": "Una carga de café con espuma de leche",
+    "section":"cafeteria",
+    "logicState":false,
+    "id":4.5
+},
+  {
     "name": "Macchiato",
     "price": 3000,
     "descrip": "Una carga de café con espuma de leche",
@@ -255,3 +263,4 @@
     "id":33
 }
 ]
+
