@@ -32,11 +32,11 @@
     "id":3
 },
   {
-    "name": "Cafe MasCaro",
+    "name": "Cafe Bruno",
     "price": 4200,
-    "descrip": "Una carga de café con espuma de leche",
+    "descrip": "Café con leche cremoso y dulce, con notas de frutos secos.",
     "section":"cafeteria",
-    "logicState":false,
+    "logicState":true,
     "id":4.5
 },
   {
@@ -263,4 +263,5 @@
     "id":33
 }
 ]
+
 
