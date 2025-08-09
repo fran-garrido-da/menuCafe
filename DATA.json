@@ -121,11 +121,19 @@
 },
   {
     "name": "Té",
-    "price": 2000,
+    "price": 3000,
     "descrip": "Clásico, en hebras o twinings.",
     "section":"cafeteria",
     "logicState":true,
     "id":14
+},
+  {
+    "name": "Té con Viriviri",
+    "price": 2000,
+    "descrip": "Té negro en hebras con viriviri",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":14.5
 },
   {
     "name": "Gaseosas",
@@ -263,5 +271,6 @@
     "id":33
 }
 ]
+
 
 
