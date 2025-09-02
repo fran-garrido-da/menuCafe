@@ -212,7 +212,7 @@
     "price": 1700,
     "descrip": "",
     "section":"comestibles",
-    "logicState":true,
+    "logicState":false,
     "id":24
 },
   {
@@ -236,7 +236,7 @@
     "price": 1500,
     "descrip": "",
     "section":"comestibles",
-    "logicState":false,
+    "logicState":true,
     "id":27
 },
   {
@@ -271,6 +271,7 @@
     "id":33
 }
 ]
+
 
 
 
