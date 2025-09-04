@@ -209,10 +209,10 @@
 },
   {
     "name": "Palta extra",
-    "price": 1700,
+    "price": 3000,
     "descrip": "",
     "section":"comestibles",
-    "logicState":false,
+    "logicState":true,
     "id":24
 },
   {
@@ -271,6 +271,7 @@
     "id":33
 }
 ]
+
 
 
 
