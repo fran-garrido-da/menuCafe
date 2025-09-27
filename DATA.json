@@ -201,7 +201,7 @@
 },
   {
     "name": "Huevo revuelto",
-    "price": 7000
+    "price": 7000,
     "descrip": "Huevo revuelto, 2 tostadas de pan de masa madre y queso crema",
     "section":"comestibles",
     "logicState":true,
@@ -271,6 +271,7 @@
     "id":33
 }
 ]
+
 
 
 
