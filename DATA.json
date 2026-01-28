@@ -103,6 +103,15 @@
     "logicState":true,
     "id":11
 },
+  
+  {
+    "name": "Licuados",
+    "price": 4400,
+    "descrip": "Consultar variedades disponibles",
+    "section":"cafeteria",
+    "logicState":true,
+    "id":11
+},
   {
     "name": "Exprimido naranja",
     "price": 4400,
@@ -154,7 +163,7 @@
   {
     "name": "Carlitos",
     "price": 5500,
-    "descrip": "Sandwich de jamón y queso con pan de masa madre tostado.",
+    "descrip": "Sandwich de jamón y queso en pan tostado de masa madre . Opcion pita/ciabatta/paninni",
     "section":"comestibles",
     "logicState":true,
     "id":17
@@ -169,11 +178,27 @@
 },
   {
     "name": "Sandwich de pan pita",
-    "price": 7000,
-    "descrip": "Pan arabe con jamón, queso, lechuga y tomate, con un dip de mayo",
+    "price": 9000,
+    "descrip": "Pan arabe con jamón, queso, lechuga, tomate y palta",
     "section":"comestibles",
     "logicState":true,
     "id":19
+},
+  {
+    "name": "Sandwich ciabatta",
+    "price": 7800,
+    "descrip": "Pan ciabatta con jamón, queso, lechuga, tomate y huevo",
+    "section":"comestibles",
+    "logicState":true,
+    "id":191
+},
+  {
+    "name": "Sandwich paninni",
+    "price": 7000,
+    "descrip": "Pan paninni con jamón, queso, lechuga y tomate",
+    "section":"comestibles",
+    "logicState":true,
+    "id":192
 },
   {
     "name": "Medialunas",
@@ -271,6 +296,7 @@
     "id":33
 }
 ]
+
 
 
 
