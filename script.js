@@ -18,33 +18,28 @@ async function getMenu() {
         }
     }
 
-function newCard(menuItem){
-    const newCard = document.createElement("article");
+function renderCard(menuItem){
+    let newCard = document.createElement("article");
+    let block = document.createElement("blockquote");
+    let h1 = document.createElement("h1");
+    let p = document.createElement("p");
     newCard.style.width = "30rem";
-    newCard.innerHTML 
-    = `<blockquote>
-        <h1>${menuItem.name}</h1>          
-        <p>Precio: $${menuItem.price}</p>
-        <legend>Descripcion:${menuItem.descrip}</legend>
-        </blockquote>
-        `
-        //newCard = document.createElement('blockquote');
-        //h1 = document.createElement('h1')
-        //h1.innerText = ´${menuItem.name}´;
-        //p = document.createElement('p');
-        //legend = document.createElement('legend')
-        //p.innerText = ´$${menuItem.price}´
-        //legend.innerText = ´Description: ${menuItem.descrip}´
-        //newCard.appendChild(h1)
-        //newCard.appendChild(p)
-        //newCard.appendChild(legend)
-        main.appendChild(newCard);
-
+    h1.innerText = `${menuItem.name}`;
+    p.innerText = `$${menuItem.price}`;
+    block.appendChild(h1)
+    block.appendChild(p)
+    if(menuItem.descrip!==""){
+        let leg = document.createElement("legend");
+        leg.innerText = `Descripcion: ${menuItem.descrip}`;
+        block.appendChild(leg);
+    }
+    newCard.appendChild(block);
+    return newCard
 }
 function showMenu(){
     menu.forEach(item => {
             if(item.logicState){
-                    newCard(item);
+                    main.appendChild(renderCard(item));
         console.log("Added new Card to Main");
                     }
     });
