@@ -5,7 +5,7 @@
     "descrip": "Una carga de café en pocillo",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":0
+    "id":1
 },
   {
     "name": "Americano",
@@ -13,7 +13,7 @@
     "descrip": "Un espresso con agua",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":1
+    "id":2
 },
   {
     "name": "Cortado",
@@ -21,7 +21,7 @@
     "descrip": "",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":2
+    "id":3
 },
   {
     "name": "Café con leche",
@@ -29,7 +29,7 @@
     "descrip": "",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":3
+    "id":4
 },
   {
     "name": "Cafe Bruno",
@@ -37,7 +37,7 @@
     "descrip": "Café con leche cremoso y dulce, con notas de frutos secos.",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":4.5
+    "id":5
 },
   {
     "name": "Macchiato",
@@ -45,7 +45,7 @@
     "descrip": "Una carga de café con espuma de leche",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":4
+    "id":6
 },
   {
     "name": "Ristretto",
@@ -53,7 +53,7 @@
     "descrip": "Una carga de café concentrado en pocillo",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":5
+    "id":7
 },
   {
     "name": "Flat White",
@@ -61,7 +61,7 @@
     "descrip": "Dos cargas de café con leche. 250 ml",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":6
+    "id":8
 },
   {
     "name": "Latte",
@@ -69,7 +69,7 @@
     "descrip": "Una carga de café con leche. 250 ml",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":7
+    "id":9
 },
   {
     "name": "Cappuccino",
@@ -77,7 +77,7 @@
     "descrip": "Con cacao y canela.",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":8
+    "id":10
 },
   {
     "name": "Iced coffee",
@@ -85,7 +85,7 @@
     "descrip": "Medida de café con hielo",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":9
+    "id":11
 },
   {
     "name": "Submarino",
@@ -93,7 +93,7 @@
     "descrip": "",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":10
+    "id":12
 },
   {
     "name": "Choco-milkshake",
@@ -101,7 +101,7 @@
     "descrip": "Batido de leche y chocolate",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":11
+    "id":13
 },
   
   {
@@ -110,7 +110,7 @@
     "descrip": "Consultar variedades disponibles",
     "section":"BEBIDAS",
     "logicState":true,
-    "id":11
+    "id":14
 },
   {
     "name": "Exprimido naranja",
@@ -118,7 +118,7 @@
     "descrip": "",
     "section":"BEBIDAS",
     "logicState":true,
-    "id":12
+    "id":15
 },
   {
     "name": "Limonada",
@@ -126,7 +126,7 @@
     "descrip": "",
     "section":"BEBIDAS",
     "logicState":true,
-    "id":13
+    "id":16
 },
   {
     "name": "Té",
@@ -134,7 +134,7 @@
     "descrip": "Clásico, en hebras o twinings.",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":14
+    "id":17
 },
   {
     "name": "Té con Viriviri",
@@ -142,7 +142,7 @@
     "descrip": "Té negro en hebras con viriviri",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":14.5
+    "id":18
 },
   {
     "name": "Gaseosas",
@@ -150,7 +150,7 @@
     "descrip": "",
     "section":"BEBIDAS",
     "logicState":true,
-    "id":15
+    "id":19
 },
   {
     "name": "Agua",
@@ -158,7 +158,7 @@
     "descrip": "",
     "section":"BEBIDAS",
     "logicState":true,
-    "id":16
+    "id":20
 },
   {
     "name": "Carlitos",
@@ -166,7 +166,7 @@
     "descrip": "Sandwich de jamón y queso en pan tostado de masa madre . Opcion pita/ciabatta/paninni",
     "section":"SANDWICHES",
     "logicState":true,
-    "id":17
+    "id":21
 },
   {
     "name": "Sandwich de focaccia",
@@ -174,7 +174,7 @@
     "descrip": "Focaccia con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"SANDWICHES",
     "logicState":true,
-    "id":18
+    "id":22
 },
   {
     "name": "Sandwich de pan pita",
@@ -182,7 +182,7 @@
     "descrip": "Pan arabe con jamón, queso, lechuga, tomate y palta",
     "section":"SANDWICHES",
     "logicState":true,
-    "id":19
+    "id":23
 },
   {
     "name": "Sandwich ciabatta",
@@ -190,7 +190,7 @@
     "descrip": "Pan ciabatta con jamón, queso, lechuga, tomate y huevo",
     "section":"SANDWICHES",
     "logicState":true,
-    "id":191
+    "id":24
 },
   {
     "name": "Sandwich paninni",
@@ -198,7 +198,7 @@
     "descrip": "Pan paninni con jamón, queso, lechuga y tomate",
     "section":"SANDWICHES",
     "logicState":true,
-    "id":192
+    "id":25
 },
   {
     "name": "Medialunas",
@@ -206,7 +206,7 @@
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":20
+    "id":26
 },
   {
     "name": "Medialunas con jamón y queso",
@@ -214,7 +214,7 @@
     "descrip": "",
     "section":"SANDWICHES",
     "logicState":true,
-    "id":21
+    "id":27
 },
   {
     "name": "Tostadas",
@@ -222,7 +222,7 @@
     "descrip": "4 tostadas de pan de masa madre, mermelada y queso crema",
     "section":"DESAYUNO",
     "logicState":true,
-    "id":22
+    "id":28
 },
   {
     "name": "Huevo revuelto",
@@ -230,7 +230,7 @@
     "descrip": "Huevo revuelto, 2 tostadas de pan de masa madre y queso crema",
     "section":"DESAYUNO",
     "logicState":true,
-    "id":23
+    "id":29
 },
   {
     "name": "Palta extra",
@@ -238,7 +238,7 @@
     "descrip": "",
     "section":"EXTRA",
     "logicState":false,
-    "id":24
+    "id":30
 },
   {
     "name": "Yogurt con fruta y granola",
@@ -246,7 +246,7 @@
     "descrip": "",
     "section":"DESAYUNO",
     "logicState":true,
-    "id":25
+    "id":31
 },
   {
     "name": "Roll de canela",
@@ -254,7 +254,7 @@
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":26
+    "id":32
 },
   {
     "name": "Orejitas de manteca",
@@ -262,7 +262,7 @@
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":false,
-    "id":27
+    "id":33
 },
   {
     "name": "Cuadradito de limón",
@@ -270,7 +270,7 @@
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":29
+    "id":34
 },
   {
     "name": "Brownie",
@@ -278,7 +278,7 @@
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":30
+    "id":35
 },
   {
     "name": "Scon",
@@ -286,13 +286,13 @@
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":32
+    "id":36
 },{
     "name": "Scon de queso",
     "price": 1100,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":33
+    "id":37
 }
 ]
