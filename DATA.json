@@ -81,7 +81,7 @@
 },
   {
     "name": "Iced coffee",
-    "price": 3800,
+    "price": 4900,
     "descrip": "Medida de café con hielo",
     "section":"CAFETERIA",
     "logicState":true,
@@ -97,7 +97,7 @@
 },
   {
     "name": "Choco-milkshake",
-    "price": 4400,
+    "price": 4800,
     "descrip": "Batido de leche y chocolate",
     "section":"CAFETERIA",
     "logicState":true,
@@ -106,7 +106,7 @@
   
   {
     "name": "Licuados",
-    "price": 4400,
+    "price": 4800,
     "descrip": "Consultar variedades disponibles",
     "section":"BEBIDAS",
     "logicState":true,
@@ -114,7 +114,7 @@
 },
   {
     "name": "Exprimido naranja",
-    "price": 4400,
+    "price": 4800,
     "descrip": "",
     "section":"BEBIDAS",
     "logicState":true,
@@ -122,7 +122,7 @@
 },
   {
     "name": "Limonada",
-    "price": 4100,
+    "price": 4500,
     "descrip": "",
     "section":"BEBIDAS",
     "logicState":true,
@@ -137,9 +137,9 @@
     "id":17
 },
   {
-    "name": "Té con Viriviri",
+    "name": "Té en hebras",
     "price": 2200,
-    "descrip": "Té negro en hebras con viriviri",
+    "descrip": "Té negro o verde en hebras con viriviri",
     "section":"CAFETERIA",
     "logicState":true,
     "id":18
@@ -149,12 +149,12 @@
     "price": 3800,
     "descrip": "",
     "section":"BEBIDAS",
-    "logicState":true,
+    "logicState":false,
     "id":19
 },
   {
     "name": "Agua",
-    "price": 2200,
+    "price": 1500,
     "descrip": "",
     "section":"BEBIDAS",
     "logicState":true,
@@ -162,7 +162,7 @@
 },
   {
     "name": "Carlitos",
-    "price": 5500,
+    "price": 6000,
     "descrip": "Sandwich de jamón y queso en pan tostado de masa madre . Opcion pita/ciabatta/paninni",
     "section":"SANDWICHES",
     "logicState":true,
@@ -173,7 +173,7 @@
     "price": 6600,
     "descrip": "Focaccia con jamón, queso, lechuga y tomate, con un dip de mayo",
     "section":"SANDWICHES",
-    "logicState":true,
+    "logicState":false,
     "id":22
 },
   {
@@ -186,7 +186,7 @@
 },
   {
     "name": "Sandwich ciabatta",
-    "price": 7800,
+    "price": 8000,
     "descrip": "Pan ciabatta con jamón, queso, lechuga, tomate y huevo",
     "section":"SANDWICHES",
     "logicState":true,
@@ -194,7 +194,7 @@
 },
   {
     "name": "Sandwich paninni",
-    "price": 7000,
+    "price": 7500,
     "descrip": "Pan paninni con jamón, queso, lechuga y tomate",
     "section":"SANDWICHES",
     "logicState":true,
@@ -202,7 +202,7 @@
 },
   {
     "name": "Medialunas",
-    "price": 1400,
+    "price": 1700,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
@@ -210,7 +210,7 @@
 },
   {
     "name": "Medialunas con jamón y queso",
-    "price": 4000,
+    "price": 3000,
     "descrip": "",
     "section":"SANDWICHES",
     "logicState":true,
@@ -219,14 +219,14 @@
   {
     "name": "Tostadas",
     "price": 5500,
-    "descrip": "4 tostadas de pan de masa madre, mermelada y queso crema",
+    "descrip": "2 tostadas de pan de masa madre, mermelada y queso crema",
     "section":"DESAYUNO",
     "logicState":true,
     "id":28
 },
   {
     "name": "Huevo revuelto",
-    "price": 7000,
+    "price": 9000,
     "descrip": "Huevo revuelto, 2 tostadas de pan de masa madre y queso crema",
     "section":"DESAYUNO",
     "logicState":true,
@@ -234,7 +234,7 @@
 },
   {
     "name": "Palta extra",
-    "price": 3300,
+    "price": 3000,
     "descrip": "",
     "section":"EXTRA",
     "logicState":false,
@@ -242,7 +242,7 @@
 },
   {
     "name": "Yogurt con fruta y granola",
-    "price": 6600,
+    "price": 8700,
     "descrip": "",
     "section":"DESAYUNO",
     "logicState":true,
@@ -266,7 +266,7 @@
 },
   {
     "name": "Cuadradito de limón",
-    "price": 1000,
+    "price": 2200,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
@@ -274,7 +274,7 @@
 },
   {
     "name": "Brownie",
-    "price": 4000,
+    "price": 4500,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
@@ -282,14 +282,14 @@
 },
   {
     "name": "Scon",
-    "price": 1000,
+    "price": 2000,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
     "id":36
 },{
     "name": "Scon de queso",
-    "price": 1100,
+    "price": 3500,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
