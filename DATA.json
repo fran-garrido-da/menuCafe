@@ -5,128 +5,103 @@
     "descrip": "Una carga de café en pocillo",
     "section":"CAFETERIA",
     "logicState":true,
-    "id":1
+    "id":0
 },
   {
     "name": "Americano",
-    "price": 3700,
+    "price": 4000,
     "descrip": "Un espresso con agua",
+    "section":"CAFETERIA",
+    "logicState":true,
+    "id":1
+},
+  {
+    "name": "Cortado",
+    "price": 4200,
+    "descrip": "",
     "section":"CAFETERIA",
     "logicState":true,
     "id":2
 },
   {
-    "name": "Cortado",
-    "price": 3800,
+    "name": "Café con leche",
+    "price": 4500,
     "descrip": "",
     "section":"CAFETERIA",
     "logicState":true,
     "id":3
 },
   {
-    "name": "Café con leche",
-    "price": 4100,
-    "descrip": "",
+    "name": "Cafe Bruno",
+    "price": 6000,
+    "descrip": "Café con leche cremoso y dulce, con notas de frutos secos.",
     "section":"CAFETERIA",
     "logicState":true,
     "id":4
 },
   {
-    "name": "Cafe Bruno",
-    "price": 4600,
-    "descrip": "Café con leche cremoso y dulce, con notas de frutos secos.",
+    "name": "Flat White",
+    "price": 5000,
+    "descrip": "Dos cargas de café con leche. 250 ml",
     "section":"CAFETERIA",
     "logicState":true,
     "id":5
 },
   {
-    "name": "Macchiato",
-    "price": 3300,
-    "descrip": "Una carga de café con espuma de leche",
+    "name": "Latte",
+    "price": 5000,
+    "descrip": "Una carga de café con leche. 250 ml",
     "section":"CAFETERIA",
     "logicState":true,
     "id":6
 },
   {
-    "name": "Ristretto",
-    "price": 3300,
-    "descrip": "Una carga de café concentrado en pocillo",
+    "name": "Cappuccino",
+    "price": 5500,
+    "descrip": "Con cacao y canela.",
     "section":"CAFETERIA",
     "logicState":true,
     "id":7
 },
   {
-    "name": "Flat White",
-    "price": 4400,
-    "descrip": "Dos cargas de café con leche. 250 ml",
+    "name": "Iced coffee",
+    "price": 5800,
+    "descrip": "Medida de café con hielo",
     "section":"CAFETERIA",
     "logicState":true,
     "id":8
 },
   {
-    "name": "Latte",
-    "price": 4400,
-    "descrip": "Una carga de café con leche. 250 ml",
+    "name": "Submarino",
+    "price": 6500,
+    "descrip": "",
     "section":"CAFETERIA",
     "logicState":true,
     "id":9
-},
+},  
   {
-    "name": "Cappuccino",
-    "price": 5000,
-    "descrip": "Con cacao y canela.",
-    "section":"CAFETERIA",
+    "name": "Licuados",
+    "price": 4400,
+    "descrip": "Consultar variedades disponibles",
+    "section":"BEBIDAS",
     "logicState":true,
     "id":10
 },
   {
-    "name": "Iced coffee",
-    "price": 4900,
-    "descrip": "Medida de café con hielo",
-    "section":"CAFETERIA",
+    "name": "Exprimido naranja",
+    "price": 4400,
+    "descrip": "",
+    "section":"BEBIDAS",
     "logicState":true,
     "id":11
 },
   {
-    "name": "Submarino",
-    "price": 5000,
+    "name": "Limonada",
+    "price": 4100,
     "descrip": "",
-    "section":"CAFETERIA",
+    "section":"BEBIDAS",
     "logicState":true,
     "id":12
-},
-  {
-    "name": "Choco-milkshake",
-    "price": 4800,
-    "descrip": "Batido de leche y chocolate",
-    "section":"CAFETERIA",
-    "logicState":true,
-    "id":13
-},
-  
-  {
-    "name": "Licuados",
-    "price": 4800,
-    "descrip": "Consultar variedades disponibles",
-    "section":"BEBIDAS",
-    "logicState":true,
-    "id":14
-},
-  {
-    "name": "Exprimido naranja",
-    "price": 4800,
-    "descrip": "",
-    "section":"BEBIDAS",
-    "logicState":true,
-    "id":15
-},
-  {
-    "name": "Limonada",
-    "price": 4500,
-    "descrip": "",
-    "section":"BEBIDAS",
-    "logicState":true,
-    "id":16
 },
   {
     "name": "Té",
@@ -134,151 +109,136 @@
     "descrip": "Clásico, en hebras o twinings.",
     "section":"CAFETERIA",
     "logicState":true,
+    "id":13
+},
+  {
+    "name": "Agua",
+    "price": 2500,
+    "descrip": "",
+    "section":"BEBIDAS",
+    "logicState":true,
+    "id":14
+},
+  {
+    "name": "Carlitos",
+    "price": 7500,
+    "descrip": "Sandwich de jamón y queso en pan tostado de masa madre . Opcion pita/ciabatta/paninni",
+    "section":"SANDWICHES",
+    "logicState":true,
+    "id":15
+},
+  
+  {
+    "name": "Sandwich de pan arabe",
+    "price": 12000,
+    "descrip": "Pan arabe con jamón, queso, lechuga, tomate y palta",
+    "section":"SANDWICHES",
+    "logicState":true,
+    "id":16
+},
+  {
+    "name": "Sandwich ciabatta",
+    "price": 10000,
+    "descrip": "Pan ciabatta con jamón, queso, lechuga, tomate y huevo",
+    "section":"SANDWICHES",
+    "logicState":true,
     "id":17
 },
   {
-    "name": "Té en hebras",
-    "price": 2200,
-    "descrip": "Té negro o verde en hebras con viriviri",
-    "section":"CAFETERIA",
+    "name": "Sandwich paninni",
+    "price": 8000,
+    "descrip": "Pan paninni con jamón, queso, lechuga y tomate",
+    "section":"SANDWICHES",
     "logicState":true,
     "id":18
 },
   {
-    "name": "Gaseosas",
-    "price": 3800,
+    "name": "Medialunas",
+    "price": 2000,
     "descrip": "",
-    "section":"BEBIDAS",
-    "logicState":false,
+    "section":"PASTELERIA",
+    "logicState":true,
     "id":19
 },
   {
-    "name": "Agua",
-    "price": 1500,
+    "name": "Medialunas con jamón y queso",
+    "price": 3500,
     "descrip": "",
-    "section":"BEBIDAS",
+    "section":"SANDWICHES",
     "logicState":true,
     "id":20
 },
   {
-    "name": "Carlitos",
-    "price": 6000,
-    "descrip": "Sandwich de jamón y queso en pan tostado de masa madre . Opcion pita/ciabatta/paninni",
-    "section":"SANDWICHES",
+    "name": "Desayuno Huevos revueltos",
+    "price": 12000,
+    "descrip": "Huevo revuelto, 2 tostadas de pan de masa madre, una infusion y un jugo chico",
+    "section":"DESAYUNO",
     "logicState":true,
     "id":21
 },
-  {
-    "name": "Sandwich de focaccia",
-    "price": 6600,
-    "descrip": "Focaccia con jamón, queso, lechuga y tomate, con un dip de mayo",
-    "section":"SANDWICHES",
-    "logicState":false,
+{
+    "name": "Desayuno Tostadas",
+    "price": 10500,
+    "descrip": "4 tostadas de pan de masa madre,queso, mermelada, una infusion y un jugo chico",
+    "section":"DESAYUNO",
+    "logicState":true,
     "id":22
 },
-  {
-    "name": "Sandwich de pan pita",
-    "price": 9000,
-    "descrip": "Pan arabe con jamón, queso, lechuga, tomate y palta",
-    "section":"SANDWICHES",
+{
+    "name": "Desayuno Medialunas J & Q",
+    "price": 11000,
+    "descrip": "2 medialunas con jamon y queso, una infusion y un jugo chico",
+    "section":"DESAYUNO",
     "logicState":true,
     "id":23
 },
-  {
-    "name": "Sandwich ciabatta",
-    "price": 8000,
-    "descrip": "Pan ciabatta con jamón, queso, lechuga, tomate y huevo",
-    "section":"SANDWICHES",
+{
+    "name": "Desayuno Frutas + Yogurt",
+    "price": 11000,
+    "descrip": "Plato de frutas, yogurt con granola, una infusion y un jugo chico",
+    "section":"DESAYUNO",
     "logicState":true,
     "id":24
 },
   {
-    "name": "Sandwich paninni",
-    "price": 7500,
-    "descrip": "Pan paninni con jamón, queso, lechuga y tomate",
-    "section":"SANDWICHES",
+    "name": "Roll de canela",
+    "price": 4500,
+    "descrip": "",
+    "section":"PASTELERIA",
     "logicState":true,
     "id":25
 },
-  {
-    "name": "Medialunas",
-    "price": 1700,
+{
+    "name": "Budín",
+    "price": 4000,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
     "id":26
 },
-  {
-    "name": "Medialunas con jamón y queso",
-    "price": 3000,
+{
+    "name": "Cookies",
+    "price": 5000,
     "descrip": "",
-    "section":"SANDWICHES",
+    "section":"PASTELERIA",
     "logicState":true,
     "id":27
 },
   {
-    "name": "Tostadas",
-    "price": 5500,
-    "descrip": "2 tostadas de pan de masa madre, mermelada y queso crema",
-    "section":"DESAYUNO",
+    "name": "Cuadradito de limón",
+    "price": 2500,
+    "descrip": "",
+    "section":"PASTELERIA",
     "logicState":true,
     "id":28
 },
   {
-    "name": "Huevo revuelto",
-    "price": 9000,
-    "descrip": "Huevo revuelto, 2 tostadas de pan de masa madre y queso crema",
-    "section":"DESAYUNO",
+    "name": "Brownie",
+    "price": 5000,
+    "descrip": "",
+    "section":"PASTELERIA",
     "logicState":true,
     "id":29
-},
-  {
-    "name": "Palta extra",
-    "price": 3000,
-    "descrip": "",
-    "section":"EXTRA",
-    "logicState":false,
-    "id":30
-},
-  {
-    "name": "Yogurt con fruta y granola",
-    "price": 8700,
-    "descrip": "",
-    "section":"DESAYUNO",
-    "logicState":true,
-    "id":31
-},
-  {
-    "name": "Roll de canela",
-    "price": 4000,
-    "descrip": "",
-    "section":"PASTELERIA",
-    "logicState":true,
-    "id":32
-},
-  {
-    "name": "Orejitas de manteca",
-    "price": 1700,
-    "descrip": "",
-    "section":"PASTELERIA",
-    "logicState":false,
-    "id":33
-},
-  {
-    "name": "Cuadradito de limón",
-    "price": 2200,
-    "descrip": "",
-    "section":"PASTELERIA",
-    "logicState":true,
-    "id":34
-},
-  {
-    "name": "Brownie",
-    "price": 4500,
-    "descrip": "",
-    "section":"PASTELERIA",
-    "logicState":true,
-    "id":35
 },
   {
     "name": "Scon",
@@ -286,13 +246,21 @@
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":36
+    "id":30
 },{
     "name": "Scon de queso",
-    "price": 3500,
+    "price": 2500,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
-    "id":37
+    "id":31
+},
+{
+    "name": "Palta extra",
+    "price": 3300,
+    "descrip": "",
+    "section":"EXTRA",
+    "logicState":false,
+    "id":32
 }
 ]
