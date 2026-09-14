@@ -121,7 +121,7 @@
 },
   {
     "name": "Carlitos",
-    "price": 7500,
+    "price": 9000,
     "descrip": "Sandwich de jamón y queso en pan tostado de masa madre . Opcion pita/ciabatta/paninni",
     "section":"SANDWICHES",
     "logicState":true,
@@ -130,7 +130,7 @@
   
   {
     "name": "Sandwich de pan arabe",
-    "price": 12000,
+    "price": 15000,
     "descrip": "Pan arabe con jamón, queso, lechuga, tomate y palta",
     "section":"SANDWICHES",
     "logicState":true,
@@ -138,7 +138,7 @@
 },
   {
     "name": "Sandwich ciabatta",
-    "price": 10000,
+    "price": 12000,
     "descrip": "Pan ciabatta con jamón, queso, lechuga, tomate y huevo",
     "section":"SANDWICHES",
     "logicState":true,
@@ -146,7 +146,7 @@
 },
   {
     "name": "Sandwich paninni",
-    "price": 8000,
+    "price": 10000,
     "descrip": "Pan paninni con jamón, queso, lechuga y tomate",
     "section":"SANDWICHES",
     "logicState":true,
@@ -154,7 +154,7 @@
 },
   {
     "name": "Medialunas",
-    "price": 2000,
+    "price": 2500,
     "descrip": "",
     "section":"PASTELERIA",
     "logicState":true,
@@ -162,7 +162,7 @@
 },
   {
     "name": "Medialunas con jamón y queso",
-    "price": 3500,
+    "price": 3800,
     "descrip": "",
     "section":"SANDWICHES",
     "logicState":true,
@@ -170,7 +170,7 @@
 },
   {
     "name": "Desayuno Huevos revueltos",
-    "price": 12000,
+    "price": 13500,
     "descrip": "Huevo revuelto, 2 tostadas de pan de masa madre, una infusion y un jugo chico",
     "section":"DESAYUNO",
     "logicState":true,
@@ -178,7 +178,7 @@
 },
 {
     "name": "Desayuno Tostadas",
-    "price": 10500,
+    "price": 12000,
     "descrip": "4 tostadas de pan de masa madre,queso, mermelada, una infusion y un jugo chico",
     "section":"DESAYUNO",
     "logicState":true,
@@ -186,7 +186,7 @@
 },
 {
     "name": "Desayuno Medialunas J & Q",
-    "price": 11000,
+    "price": 13000,
     "descrip": "2 medialunas con jamon y queso, una infusion y un jugo chico",
     "section":"DESAYUNO",
     "logicState":true,
@@ -194,7 +194,7 @@
 },
 {
     "name": "Desayuno Frutas + Yogurt",
-    "price": 11000,
+    "price": 14500,
     "descrip": "Plato de frutas, yogurt con granola, una infusion y un jugo chico",
     "section":"DESAYUNO",
     "logicState":true,
